@@ -2,6 +2,8 @@
 
 Mark-up and style a website.
 
+![Mockup](mockup.png)
+
 ### Step 1 - Fork this repository.
 
 From the assignment homepage (https://github.com/fewd05082017/week4), click the "Fork" link on the top right. This will create a copy of the assignment in YOUR github account.
