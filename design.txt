@@ -1,0 +1,8 @@
+Three Google Fonts are being used:
+"Source Sans Pro"
+"Merriweather"
+"Oswald"
+
+The yellow on the page is the CSS color name - "yellow".
+
+Select styles are below. Approximate box model values as best as you can. The given Design is 1280px wide. "Meet your Match" should be about 500px wide and the three lower callouts should be about 425px wide. 
